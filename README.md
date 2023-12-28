@@ -41,6 +41,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ## Link to video demo
 https://drive.google.com/file/d/1nU0H2JuzL5ii3JQLLVK-HVL9FaIN4Yyf/view
 
+
 ## license
 
 MIT
